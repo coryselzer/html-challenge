@@ -4,7 +4,7 @@ In this challenge, we have scraped data from a Mars news article as well as a ta
    - Mars news:
        - Used automated browsing to visit the given url and created a BeautifulSoup object to scrape text elements from the site.
        - Created a For Loop to loop through the elements we have found.
-                - Created dictionaries to store each element we are looking for and then created a list of dictionaries.
+       - Created dictionaries to store each element we are looking for and then created a list of dictionaries.
    - Mars weather:
        - Used automated browsing to visit the given url and created a BeautifulSoup object to scrape HTML table data.
        - Created a For Loop to look through the elements we extracted.
