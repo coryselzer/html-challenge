@@ -15,12 +15,8 @@ In this challenge, we have scraped data from a Mars news article as well as a ta
        - Created charts via (Pandas .plot) as well as Matplotlib to format/label the charts properly.
        - Wrote the DataFrame out to a CSV file.
  > Images:
-
-    - Mars news
-    
+    - Mars news   
     <img width="300" alt="Screenshot 2023-08-25 at 12 25 50 PM" src="https://github.com/coryselzer/html-challenge/assets/134936973/25e5fe7f-1a41-4f81-acbe-97e00361700c">
-
     - Mars weather
-
     <img width="300" alt="Screenshot 2023-08-25 at 12 26 36 PM" src="https://github.com/coryselzer/html-challenge/assets/134936973/b8706f11-4a8d-4c7e-aace-3454db207ee7">
 
